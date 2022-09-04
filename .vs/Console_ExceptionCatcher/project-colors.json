@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bb9a9c1-7000-4c15-81ef-dce3b3080575": {
+      "ProjectGuid": "2bb9a9c1-7000-4c15-81ef-dce3b3080575",
+      "DisplayName": "Console_ExceptionCatcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
